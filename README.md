@@ -1,3 +1,9 @@
+![ViewCount](https://views.whatilearened.today/views/github/debdattasarkar/PythonDataScienceHandbook.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/debdattasarkar/PythonDataScienceHandbook?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/debdattasarkar/PythonDataScienceHandbook?style=flat)
+![Stars Badge](https://img.shields.io/github/stars/debdattasarkar/PythonDataScienceHandbook?style=flat)
+![Forks Badge](https://img.shields.io/github/forks/debdattasarkar/PythonDataScienceHandbook?style=flat)
+
 # Python Data Science Handbook
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jakevdp/PythonDataScienceHandbook/master?filepath=notebooks%2FIndex.ipynb)
